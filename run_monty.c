@@ -1,5 +1,5 @@
 #include "monty.h"
-#include <stdio.h> 
+#include <stdio.h>
 #include <string.h>
 
 void free_tokens(void);
